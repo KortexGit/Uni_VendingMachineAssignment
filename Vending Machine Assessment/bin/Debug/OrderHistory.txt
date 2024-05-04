@@ -1,0 +1,4 @@
+Item Name: Milk
+Item Quantity: 2
+Item Price: 5
+Order Total: $10
